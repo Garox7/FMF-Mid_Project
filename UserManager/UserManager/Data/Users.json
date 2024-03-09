@@ -1,0 +1,35 @@
+[
+  {
+    "_password": "pass",
+    "_isBlocked": false,
+    "Id": "1",
+    "Username": "Sadmin",
+    "Name": "Sadmin",
+    "Surname": "Sadmin",
+    "Token": "ffeb32f9-071b-416e-bb17-3c5f1baf39dd",
+    "_tokenExpirationDate": "2023-11-20T07:33:54.002271Z",
+    "UserRole": 2
+  },
+  {
+    "_password": "pass",
+    "_isBlocked": false,
+    "Id": "2",
+    "Username": "admin",
+    "Name": "admin",
+    "Surname": "admin",
+    "Token": "d29490cb-48cd-4918-a55e-5df3d8ee914a",
+    "_tokenExpirationDate": "2023-11-21T21:01:47.082006Z",
+    "UserRole": 1
+  },
+  {
+    "_password": "pass",
+    "_isBlocked": true,
+    "Id": "3",
+    "Username": "user",
+    "Name": "user",
+    "Surname": "user",
+    "Token": "ce71d08f-17b9-4d33-befb-dee9b17f0421",
+    "_tokenExpirationDate": "2023-11-21T20:45:41.415182Z",
+    "UserRole": 0
+  }
+]

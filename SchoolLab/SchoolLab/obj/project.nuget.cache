@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "/QV7m7w3BmVx2F9FXQXl6qxjCoZu6FeSfmqtGZfazTFdydRgB6PObjSQ885hUTllV7YFGvsRQPxuDZRNKAjtVw==",
+  "success": true,
+  "projectFilePath": "/Users/giuseppegarozzo/Desktop/FMF/Garozzo/Deliveries/Project_8.1/SchoolLab/SchoolLab/SchoolLab.csproj",
+  "expectedPackageFiles": [
+    "/Users/giuseppegarozzo/.nuget/packages/microsoft.aspnetcore.openapi/7.0.11/microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
+    "/Users/giuseppegarozzo/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/giuseppegarozzo/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/giuseppegarozzo/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/giuseppegarozzo/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/giuseppegarozzo/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/giuseppegarozzo/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/giuseppegarozzo/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

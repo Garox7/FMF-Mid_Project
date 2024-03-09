@@ -1,0 +1,42 @@
+[
+  {
+    "Id": "719c6ab4ba",
+    "UserId": "3",
+    "LabId": "1",
+    "ComputerId": "055547e99e",
+    "Date": "2023-11-24T00:00:00",
+    "TimeSlot": 14
+  },
+  {
+    "Id": "9ca6bd6a98",
+    "UserId": "3",
+    "LabId": "2",
+    "ComputerId": "0b0afc05b5",
+    "Date": "2023-11-30T00:00:00",
+    "TimeSlot": 12
+  },
+  {
+    "Id": "e4f639fe34",
+    "UserId": "3",
+    "LabId": "4",
+    "ComputerId": "8749bd42ee",
+    "Date": "2023-11-28T00:00:00",
+    "TimeSlot": 11
+  },
+  {
+    "Id": "fdcef8b65b",
+    "UserId": "3",
+    "LabId": "1",
+    "ComputerId": "055547e99e",
+    "Date": "2023-11-23T00:00:00",
+    "TimeSlot": 13
+  },
+  {
+    "Id": "028272c093",
+    "UserId": "3",
+    "LabId": "1",
+    "ComputerId": "4e0f2f307f",
+    "Date": "2023-11-23T00:00:00",
+    "TimeSlot": 13
+  }
+]
